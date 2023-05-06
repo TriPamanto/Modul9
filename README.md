@@ -1,2 +1,5 @@
 # Modul9
 Praktikum
+Nama: MOHAMMAD ANGGA TRI PAMANTO
+NIM:  2105101023
+TIF 4(B)
